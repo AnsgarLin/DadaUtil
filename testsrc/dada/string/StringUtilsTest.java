@@ -1,4 +1,4 @@
-package string;
+package dada.string;
 
 import org.junit.Assert;
 import org.junit.Test;
