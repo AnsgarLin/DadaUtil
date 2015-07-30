@@ -1,4 +1,4 @@
-package observer;
+package dada.observer;
 
 public interface IObserver<P> {
 

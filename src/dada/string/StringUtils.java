@@ -1,4 +1,4 @@
-package string;
+package dada.string;
 
 public class StringUtils {
 
